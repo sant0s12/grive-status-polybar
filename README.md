@@ -1,6 +1,8 @@
 # Script: grive-status-polybar
 Polybar module to display grive sync status
 
+![alt](https://github.com/sant0s12/grive-status-polybar/blob/master/image.png?raw=true)
+
 ## Dependencies:
 - [`Grive`](https://github.com/vitalif/grive2)
 - A font that can display the characters `0xfb3e` and `0xf058`, I recommend a [Nerd Font](https://www.nerdfonts.com/). Although these can be changed in the script.
